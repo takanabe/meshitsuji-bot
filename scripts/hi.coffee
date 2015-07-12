@@ -1,3 +1,3 @@
 module.exports = (robot) ->
-  robot.respond /HI$/i,(msg) ->
+  robot.respond /hi$/i,(msg) ->
     msg.reply "Hi I'm meshi tsuji bot"
